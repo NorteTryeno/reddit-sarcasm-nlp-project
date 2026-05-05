@@ -15,6 +15,11 @@ https://www.kaggle.com/datasets/danofer/sarcasm
 
 После скачивания поместите файл в каталог `data/`.
 
+## Структура проекта
+
+- `Sarcasm.ipynb` — базовая модель (TF-IDF + логистическая регрессия)
+- `bert_sarcasm_detection.ipynb` — модель на основе трансформера (BERT)
+
 ### Preprocessing
 
 - Lowercasing
